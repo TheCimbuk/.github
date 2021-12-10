@@ -1,6 +1,8 @@
 ## Hey there 👋
 ### This is THE CIMBUK!
 
+#### We are code crafters & experienced builders. Our goal is to advance the human experience through technology.
+
 <!--
 
 **Here are some ideas to get you started:**
